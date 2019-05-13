@@ -1,0 +1,18 @@
+div
+{
+    background-color: grey;
+}
+
+a
+{
+   color: white;
+}
+
+img {
+    border: 1px black solid;
+}
+
+.centre{
+    text-align: center;
+    color: red;
+}

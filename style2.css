@@ -1,0 +1,127 @@
+body
+{
+    font-family: arial;
+    margin: 0px;
+}    
+a{
+    color: white;
+}
+.secondary-block
+{
+    color: white;
+    background-color: red;
+}
+nav
+{
+    height: 70px;
+}
+nav h2
+{
+    margin: 0px;
+    padding: 20px 0px 20px 15px;
+    float: left;
+}
+nav ul
+{
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+    float: left;
+}
+nav li
+{
+    float: left;
+    margin-left: 15px;
+}
+.content
+{
+    max-width: 800px;
+    margin: 0 auto;
+}
+header 
+{
+   text-align: center;
+   margin: 40px; 
+}
+header h2
+{
+    color: #0475BA;
+}
+header img
+{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px #AAA;
+}
+section
+{
+    padding: 40px;
+}
+#xp ul
+{
+    padding: 0;
+    margin: O;
+    list-style: none;
+}
+#xp li
+{
+    margin-bottom: 10px;
+}
+#xp aside
+{
+    float: right;
+}
+#education ul
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#education li
+{
+    margin-bottom: 10px;
+}
+#education aside 
+{
+    float: right;
+}
+footer {
+	padding: 40px;
+}
+footer ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.links {
+	margin-bottom: 25px;
+	display: inline-block;
+	width: 390px;
+}
+header h1 {
+    font-family: 'Shadows Into Light', cursive;
+}
+nav h2 {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+header{
+    font-family: 'Modak', cursive;
+}
+body{
+    margin: 50px;
+}
+nav ul li a
+{
+    font-family: 'Modak', cursive;
+    color: black;
+}
+div h4
+{
+    font-family: 'Modak', cursive;
+}
+aside
+{
+   color: red;
+}
